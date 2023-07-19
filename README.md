@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Basil 
-#### Computer Vision and Machine Learning Intern
+#### Deep Learning and Computer Vision Researcher
 
 ![](https://komarev.com/ghpvc/?username=basilbatov&label=Profile%20views&color=0e75b6&style=flat-square)
 
