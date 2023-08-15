@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Basil 
-#### Deep Learning and Computer Vision Researcher
+#### Current: Deep Learning and Computer Vision Research Placement
 
 ![](https://komarev.com/ghpvc/?username=basilbatov&label=Profile%20views&color=0e75b6&style=flat-square)
 
